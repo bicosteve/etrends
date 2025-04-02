@@ -1,0 +1,6 @@
+.env
+06.datasets
+.ipynb_checkpoints/
+01.regression/.ipynb_checkpoints
+01.regression/datasets
+.DS_Store

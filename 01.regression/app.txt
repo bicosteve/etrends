@@ -1,0 +1,4 @@
+Linear Regression 
+-> seeks to find the linear relationship between a dependant variable (y the variable you want to predict) and the independent variable (the variables you are using to make predictions).
+-> It essentially tries to get the 'best-fit' straight that best represent the data
+-> The goal is to minimize the difference between the predicted values and the actual observed values often done using least squares method
